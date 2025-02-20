@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @AmetsMarti
-- 👀 I’m interested in chatGPT
-- 🌱 I’m currently learning chatGPT
-- 💞️ I’m looking to collaborate on chatGPT
-- 📫 How to reach me chatGPT
-- 😄 Pronouns: chatGPT
-- ⚡ Fun fact: chatGPT
+  
+![AmetsMarti's Stats](https://github-readme-stats.vercel.app/api?username=AmetsMarti&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![AmetsMarti's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AmetsMarti&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+
 
 <!---
 AmetsMarti/AmetsMarti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
